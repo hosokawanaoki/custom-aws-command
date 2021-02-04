@@ -3,7 +3,7 @@
 ## 準備
 ```
 mkdir ~/command
-git clone --exec-path=~/command 
+git clone https://github.com/hosokawanaoki/custom-aws-command.git ~/command 
 ```
 
 ```
