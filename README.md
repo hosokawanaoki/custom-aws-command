@@ -7,10 +7,10 @@ git clone https://github.com/hosokawanaoki/custom-aws-command.git ~/command/cust
 ```
 
 ```
-ln -si ~/command/custom-aws-command/csls.sh /usr/local/bin
+ln -si ~/command/custom-aws-command/csls.py /usr/local/bin
 ```
 ## 使用方法
 ```
-csls <functionName>
+csls.sh <functionName>
 
 ```
